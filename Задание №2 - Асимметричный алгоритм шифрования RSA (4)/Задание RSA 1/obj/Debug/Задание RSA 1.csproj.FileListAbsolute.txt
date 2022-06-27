@@ -1,0 +1,11 @@
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\bin\Debug\Задание RSA 1.exe.config
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\bin\Debug\Задание RSA 1.exe
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\bin\Debug\Задание RSA 1.pdb
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание RSA 1.csproj.AssemblyReference.cache
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание RSA 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание_RSA_1.Form1.resources
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание_RSA_1.Properties.Resources.resources
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание RSA 1.csproj.GenerateResource.cache
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание RSA 1.csproj.CoreCompileInputs.cache
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание RSA 1.exe
+C:\Users\Никита Винтилов\Desktop\C#\Задание RSA 1\Задание RSA 1\obj\Debug\Задание RSA 1.pdb
